@@ -18,11 +18,11 @@ Repositório criado para documentar minha evolução nos fundamentos da linguage
 | | | `DivFor` | Listagem dos divisores de um número informado |
 | 08 | do/while | `TempDoWhile` | Conversão de temperatura Celsius → Fahrenheit, repetindo enquanto o usuário desejar |
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Java
 - Scanner (entrada de dados via console)
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 javac caminho/para/Arquivo.java
