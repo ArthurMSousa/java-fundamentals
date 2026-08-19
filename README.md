@@ -16,7 +16,7 @@ Repositório criado para documentar minha evolução nos fundamentos da linguage
 | | | `QuadranteWh` | Identificação do quadrante de um par de coordenadas (x, y) |
 | 07 | for | `OddNumbersFor` | Listagem dos números ímpares até um valor informado |
 | | | `DivFor` | Listagem dos divisores de um número informado |
-| 08 | do/while | `TempDoWhile` | Conversão de temperatura Celsius → Fahrenheit, repetindo enquanto o usuário desejar |
+| 08 | do/while | `TemperatureDoWhile` | Conversão de temperatura Celsius → Fahrenheit, repetindo enquanto o usuário desejar |
 
 ## Tecnologias
 - Java
