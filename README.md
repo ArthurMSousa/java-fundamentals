@@ -2,7 +2,7 @@
 
 Repositório criado para documentar minha evolução nos fundamentos da linguagem Java, através de exercícios práticos organizados por tópico.
 
-## 📚 Conteúdos estudados
+## Conteúdos estudados
 
 | # | Tópico | Exercício | Descrição |
 |---|--------|-----------|-----------|
